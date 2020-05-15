@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\1\Desktop\projekt_c++\project_15052020\project_15052020\Game.cpp(133,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\1\Desktop\projekt_c++\project_15052020\project_15052020\Game.cpp(147,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  project_15052020.vcxproj -> C:\Users\1\Desktop\projekt_c++\project_15052020\Debug\project_15052020.exe
